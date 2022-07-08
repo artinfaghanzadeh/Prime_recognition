@@ -1,4 +1,4 @@
-#Important thing that you have to know before run project
+**Important thing that you have to know before run project**
 
 1 - What the project does?
 
