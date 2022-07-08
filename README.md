@@ -10,10 +10,10 @@
 
 ## 3 - How users can get started with the project?
 
-*Only download the Main python file (Prime_Recognition) , run it & enjoy.*
-*If you wanna have the flowchart (algorithm) you can download the SVG or JPG of the flowchart.*
+* - Install the Requirements by orders (last title(Instaling Requirements))*
+* - download the Main python file (Prime_Recognition) , run it & enjoy.*
 
-### pay attention:
+### > pay attention:
 *This project is function , so you can import it & use it.*
 
 ## 4 - Where users can get help with your project?
@@ -23,3 +23,8 @@
 ## 5 - Who maintains and contributes to the project?
 
 *Nowaday, I am the only member of this project.*
+
+## 6 - What is file into repository?
+### *Jpeg Flowchart* ### * : This is image type of Flowchart*
+### *SVG Flowchart* ### * : This is vector of Flowchart*
+### *Prime_Recognition.py* ### * : This is vector of Flowchart*
