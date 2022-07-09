@@ -10,8 +10,8 @@
 
 ## 3 - How users can get started with the project?
 
-*1. Download the Main python file (Prime_Recognition).*
-*2. Create structure by "Structure flowchart" file or use the preprited python file that named "Structure"*
+*1- Download the Main python file (Prime_Recognition).*
+*2- Create structure by "Structure flowchart" file or use the preprited python file that named "Structure"*
 
 ###  pay attention:
 *1. This project is function , so you can import it & use it.*
