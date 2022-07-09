@@ -10,4 +10,4 @@ try:
     elif input_number == 0 or input_number == 1:
         print(Prime_Recognition.prime_r(input_number))
 except:
-    print("Erorr.")
+    print("Error.")
