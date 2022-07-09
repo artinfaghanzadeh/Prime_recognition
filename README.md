@@ -10,12 +10,12 @@
 
 ## 3 - How users can get started with the project?
 
-*1 - Download the Main python file (Prime_Recognition).*
-*2 - Create structure by "Structure flowchart" file or use the preprited python file that named "Structure"*
+*1. Download the Main python file (Prime_Recognition).*
+*2. Create structure by "Structure flowchart" file or use the preprited python file that named "Structure"*
 
 ###  pay attention:
-* - This project is function , so you can import it & use it.*
-* - You have to know the structure of running this function when you wanna use it. other way it might have some error.*
+*1. This project is function , so you can import it & use it.*
+*2. You have to know the structure of running this function when you wanna use it. other way it might have some error.*
 
 ## 4 - Where users can get help with your project?
 
@@ -26,6 +26,6 @@
 *Nowaday, I am the only member of this project.*
 
 ## 6 - What is file into repository?
-*Jpeg Flowchart : This is image type of Flowchart*
-*SVG Flowchart : This is vector of Flowchart*
-*Prime_Recognition.py : This is vector of Flowchart*
+* - Jpeg Flowchart : This is image type of Flowchart*
+* - SVG Flowchart : This is vector of Flowchart*
+* - Prime_Recognition.py : This is vector of Flowchart*
