@@ -36,7 +36,8 @@ Visit Linkedin page using this adress : https://www.linkedin.com/in/artin-faghan
  
  ## 7 - Video tutorial on how to run
  1. Install IDLE for python (e.g. : Pycharm , Vscode & ...)
-(https://user-images.githubusercontent.com/96824756/178909522-0e61f0e6-ec08-445e-a3f1-480f97f9acfc.jpg)
+ ![3fa81d77-2b2e-4f8c-94fe-29375d09621e](https://user-images.githubusercontent.com/96824756/178909652-6cf0db4d-3241-4907-845b-c510bcb3627b.jpg)
+
  3. Install git using this adress : https://git-scm.com/download/win
  4. Copy the file HTTPS adress (for this project it is : https://github.com/artinfaghanzadeh/Prime_recognition.git)
  5. Open Terminal of Pycharm (Alt + F12)
