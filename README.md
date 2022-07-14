@@ -35,10 +35,11 @@ Visit Linkedin page using this adress : https://www.linkedin.com/in/artin-faghan
  - Structure.py : This file is the right way to run the project.
  
  ## 7 - Video tutorial on how to run
- 1. h
- 2. c
- 3. de
- 4. c
- 5. d
- 6. s
- 7. c
+ 1. Install IDLE for python (e.g. : Pycharm , Vscode & ...)
+(https://user-images.githubusercontent.com/96824756/178909522-0e61f0e6-ec08-445e-a3f1-480f97f9acfc.jpg)
+ 3. Install git using this adress : https://git-scm.com/download/win
+ 4. Copy the file HTTPS adress (for this project it is : https://github.com/artinfaghanzadeh/Prime_recognition.git)
+ 5. Open Terminal of Pycharm (Alt + F12)
+ 6. Write "git clone https://github.com/artinfaghanzadeh/Prime_recognition.git" on your terminal
+ 7. open Structure.py
+ 8. run and enjoy!
