@@ -1,6 +1,7 @@
 # **Important thing that you have to know before run project😎**
 
-This project was built by artin faghanzadeh [(Linkedin Page)](www.linkedin.com/in/artin-faghanzadeh)
+This project was built by artin faghanzadeh.
+Visit Linkedin page using this adress : https://www.linkedin.com/in/artin-faghanzadeh/
 
 ## 1 - What the project does?
 
