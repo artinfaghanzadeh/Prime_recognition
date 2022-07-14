@@ -1,7 +1,7 @@
 # **Important thing that you have to know before run project😎**
 
 This project was built by artin faghanzadeh.
-Visit Linkedin page using this adress : https://www.linkedin.com/in/artin-faghanzadeh/
+Visit Linkedin page using this address : https://www.linkedin.com/in/artin-faghanzadeh/
 
 ## 1 - What the project does?
 
@@ -39,7 +39,7 @@ Visit Linkedin page using this adress : https://www.linkedin.com/in/artin-faghan
  
  ![3fa81d77-2b2e-4f8c-94fe-29375d09621e](https://user-images.githubusercontent.com/96824756/178909652-6cf0db4d-3241-4907-845b-c510bcb3627b.jpg)
 
- 3. Install git using this adress : https://git-scm.com/download/win
+ 2. Install git using this address : https://git-scm.com/download/win
  
 ![10001](https://user-images.githubusercontent.com/96824756/178911515-6fe3e55b-4c13-4b4b-919b-b6424d97abee.png)
 ![10002](https://user-images.githubusercontent.com/96824756/178911519-ca94f3e3-e479-41f4-9d75-c5c631bf64e9.png)
@@ -60,8 +60,18 @@ Visit Linkedin page using this adress : https://www.linkedin.com/in/artin-faghan
 ![10017](https://user-images.githubusercontent.com/96824756/178911568-2523d5e7-2c41-4d1f-ad08-f4b83afe24e4.jpg)
 ![10018](https://user-images.githubusercontent.com/96824756/178911580-7767cd95-cb62-4c64-8900-026acb4187c2.png)
 
- 5. Copy the file HTTPS adress (for this project it is : https://github.com/artinfaghanzadeh/Prime_recognition.git)
- 6. Open Terminal of Pycharm (Alt + F12)
- 7. Write "git clone https://github.com/artinfaghanzadeh/Prime_recognition.git" on your terminal
- 8. open Structure.py
- 9. run and enjoy!
+ 3. Copy the file HTTPS address (for this project it is : https://github.com/artinfaghanzadeh/Prime_recognition.git)
+ 
+![code-button](https://user-images.githubusercontent.com/96824756/178912060-04142555-41c1-4a60-bd74-e700802e2758.png)
+![https-url-clone-cli](https://user-images.githubusercontent.com/96824756/178912067-b8aed36a-7e39-4c90-8152-480297633b7b.png)
+
+ 4. Open Terminal of Pycharm (Alt + F12)
+ 
+ 5. Write "git clone https://github.com/artinfaghanzadeh/Prime_recognition.git" on your terminal
+ 
+![Screenshot 2022-07-14 103933](https://user-images.githubusercontent.com/96824756/178912627-6decda92-efb2-433a-b89b-64284b690d5f.png)
+![Screenshot 2022-07-14 104007](https://user-images.githubusercontent.com/96824756/178912636-c7b0a82f-77d3-4ba4-b0bf-c63d0894f534.png)
+![Screenshot 2022-07-14 104150](https://user-images.githubusercontent.com/96824756/178912641-747d6f13-abf5-461e-839e-bd158d3aee94.png)
+
+ 6. open Structure.py
+ 7. run and enjoy!
