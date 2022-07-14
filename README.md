@@ -1,5 +1,7 @@
 # **Important thing that you have to know before run project😎**
 
+This project was built by artin faghanzadeh [(Linkedin Page)](www.linkedin.com/in/artin-faghanzadeh)
+
 ## 1 - What the project does?
 
 *This project is a useful project that can tell you is this number prime or not with new flowchart (algorithm).*
@@ -26,6 +28,7 @@
 *Nowaday, I am the only member of this project.*
 
 ## 6 - What is file into repository?
-* - Jpeg Flowchart : This is image type of Flowchart*
-* - SVG Flowchart : This is vector of Flowchart*
-* - Prime_Recognition.py : This is vector of Flowchart*
+ - Jpeg Flowchart : This is image type of Flowchart.
+ - SVG Flowchart : This is vector of Flowchart.
+ - Prime_Recognition.py : This is vector of Flowchart.
+ - Structure.py : This file is the right way to run the project.
