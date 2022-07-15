@@ -34,7 +34,7 @@ Visit Linkedin page using this address : https://www.linkedin.com/in/artin-fagha
  - Prime_Recognition.py : This is vector of Flowchart.
  - Structure.py : This file is the right way to run the project.
  
- ## 7 - Video tutorial on how to run
+ ## 7 - Picture tutorial on how to run
  1. Install IDLE for python (e.g. : Pycharm , Vscode & ...)
  
  ![3fa81d77-2b2e-4f8c-94fe-29375d09621e](https://user-images.githubusercontent.com/96824756/178909652-6cf0db4d-3241-4907-845b-c510bcb3627b.jpg)
